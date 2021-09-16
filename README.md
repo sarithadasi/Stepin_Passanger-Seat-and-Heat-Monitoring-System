@@ -25,15 +25,21 @@ Threats
 
 Activity1
 
-
+Case1:    switch1 OFF  switch2  OFF
 
 ![image](https://user-images.githubusercontent.com/89601584/133664506-6a8909d1-c36f-4b1b-bd40-d564f38bbf59.png)
+
+case2:    switch1 OFF    switch  ON
 
 
 ![image](https://user-images.githubusercontent.com/89601584/133665183-1a949fa3-7461-42d0-b97d-d8219ac16cf5.png)
 
+case3:    switch1 ON     switch2 OFF 
+
 
 ![image](https://user-images.githubusercontent.com/89601584/133665215-1f5969e3-f85e-4092-b54e-a636391f29e5.png)
+
+case4:   switch1  ON    switch2 ON
 
 
 ![image](https://user-images.githubusercontent.com/89601584/133665338-45dd39bc-5735-485f-9093-c1e6870d2fca.png)
