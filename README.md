@@ -25,6 +25,17 @@ Threats
 
 Activity1
 ![image](https://user-images.githubusercontent.com/89601584/133664506-6a8909d1-c36f-4b1b-bd40-d564f38bbf59.png)
+![image](https://user-images.githubusercontent.com/89601584/133665183-1a949fa3-7461-42d0-b97d-d8219ac16cf5.png)
+![image](https://user-images.githubusercontent.com/89601584/133665215-1f5969e3-f85e-4092-b54e-a636391f29e5.png)
+![image](https://user-images.githubusercontent.com/89601584/133665338-45dd39bc-5735-485f-9093-c1e6870d2fca.png)
+
+Activity2
+![image](https://user-images.githubusercontent.com/89601584/133665466-d0e51e07-ca8f-4f22-a25a-817140ff4c23.png)
+![image](https://user-images.githubusercontent.com/89601584/133665519-2e1c24db-9545-4e85-b357-e8d7cae3d747.png)
+![image](https://user-images.githubusercontent.com/89601584/133665559-ebce7d7d-fba8-47f8-b0e1-89da821ad8de.png)
+![image](https://user-images.githubusercontent.com/89601584/133665607-6ab665c6-48c9-4567-96c5-a6174b862f19.png)
+![image](https://user-images.githubusercontent.com/89601584/133665664-d27713f0-866c-4265-b289-51fe4ae05acd.png)
+
 
 
 
