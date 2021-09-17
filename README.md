@@ -64,6 +64,8 @@ Activity3
 
 ![simulIDE 1](https://user-images.githubusercontent.com/89601584/133667883-deead60d-0b28-4f2b-a76a-3dddf80ee023.png)
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9450443d097241e89ea0fa7980502bbd)](https://www.codacy.com/gh/sarithadasi/Stepin_Passanger-Seat-and-Heat-Monitoring-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=sarithadasi/Stepin_Passanger-Seat-and-Heat-Monitoring-System&amp;utm_campaign=Badge_Grade)
+
 
 
 
